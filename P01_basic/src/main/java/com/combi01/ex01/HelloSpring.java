@@ -12,6 +12,8 @@ public class HelloSpring {
 		MessageBeanKr beanB = new MessageBeanKr();
 		beanB.sayHello();
 		
+		System.out.println("이거 되는거 맞겠지?");
+		
 	}
 	
 }
